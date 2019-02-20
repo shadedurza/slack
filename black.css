@@ -1411,7 +1411,7 @@ ts-message .reply_bar:hover { background: #222; border-color: #000; }
 
 #archives_return a { color: #e6e6e6; }
 
-#archives_return a:hover { color: rgba(230, 230, 230, 0.8); }
+#archives_return a:hover { color: rgba(0, 0, 255, 0.8); }
 
 #messages_unread_status { background: #545454; }
 
@@ -1433,7 +1433,7 @@ ts-message .reply_bar:hover { background: #222; border-color: #000; }
 
 #archives_end_div_msg_lim h1, #end_display_msg_lim h1 { color: #e6e6e6; }
 
-#archives_end_div_msg_lim h2, #end_display_msg_lim h2 { color: rgba(230, 230, 230, 0.8); }
+#archives_end_div_msg_lim h2, #end_display_msg_lim h2 { color: rgba(0, 0, 255, 0.8); }
 
 code { background-color: #000; border: 1px solid #363636; color: #e6e6e6; }
 
@@ -2331,7 +2331,7 @@ span.match { background: rgba(191, 54, 12, 0.25); }
 
 #member_preview_scroller .member_data_table .current_status_cell .current_status_container .current_status_cover:hover { border-color: #363636; }
 
-#member_preview_scroller .member_data_table .current_status_cell .current_status_container:not(.active) .current_status_cover.without_status_set .current_status_placeholder { color: rgba(230, 230, 230, 0.35) !important; }
+#member_preview_scroller .member_data_table .current_status_cell .current_status_container:not(.active) .current_status_cover.without_status_set .current_status_placeholder { color: rgba(0, 0, 255, 0.35) !important; }
 
 #team_tab #member_preview_scroller { background-color: #222; }
 
