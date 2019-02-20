@@ -340,11 +340,11 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] { backg
 
 #select_share_channels .lazy_filter_select .lfs_item .ts_icon:not(.presence_icon) { color: #949494 !important; }
 
-#message_edit_form .emo_menu { color: rgba(230, 230, 230, 0.3); }
+#message_edit_form .emo_menu { color: rgba(0, 0, 255, 0.3); }
 
 #message_edit_form .emo_menu.active .ts_icon_happy_smile, #message_edit_form .emo_menu:hover .ts_icon_happy_smile { color: #828282; }
 
-#message_edit_form.focus .emo_menu { color: rgba(230, 230, 230, 0.6); }
+#message_edit_form.focus .emo_menu { color: rgba(0, 0, 255, 0.6); }
 
 #message_edit_form.focus #primary_file_button:not(:hover) { border-color: #363636; }
 
@@ -1034,7 +1034,7 @@ ts-message .in_reply_to { background: #000; color: #949494; }
 
 ts-message.standalone:not(.for_mention_display):not(.for_search_display):not(.for_top_results_search_display):not(.for_star_display) { border: 1px solid #363636; }
 
-ts-message.unprocessed { color: rgba(230, 230, 230, 0.75); }
+ts-message.unprocessed { color: rgba(0, 0, 255, 0.75); }
 
 ts-message.highlight { background: rgba(191, 54, 12, 0.4); }
 
@@ -1054,7 +1054,7 @@ ts-message .recap_highlight a { color: #e6e6e6; }
 
 ts-message.delete_mode, ts-message.multi_delete_mode { background: rgba(191, 54, 12, 0.75); }
 
-ts-message.automated .message_body { color: rgba(230, 230, 230, 0.8); }
+ts-message.automated .message_body { color: rgba(0, 0, 255, 0.8); }
 
 ts-message .action_hover_container { border: 1px solid #363636; }
 
