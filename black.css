@@ -108,7 +108,7 @@ h1 a:active, h1 a:hover, h1 a:link, h1 a:visited { color: #00ff00; }
 
 .channels_list_holder ul li.mention a { color: #00ff00; }
 
-.channels_list_holder ul li.unread:not(.muted_channel) .primary_action { color: whitesmoke !important; }
+.channels_list_holder ul li.unread:not(.muted_channel) .primary_action { color: #00ff00 !important; }
 
 .channels_list_holder ul li.unread .prefix { color: #00ff00 !important; opacity: 1; }
 
@@ -1054,7 +1054,7 @@ ts-message .recap_highlight a { color: #00ff00; }
 
 ts-message.delete_mode, ts-message.multi_delete_mode { background: rgba(191, 54, 12, 0.75); }
 
-ts-message.automated .message_body { color: rgba(230, 230, 230, 0.8); }
+ts-message.automated .message_body { color: rgba(0, 230, 0, 0.8); }
 
 ts-message .action_hover_container { border: 1px solid #363636; }
 
@@ -3069,7 +3069,7 @@ ts-jumper ol li.highlighted .channel_not_member, ts-jumper ol li.highlighted .me
 
 .candy_red_bg { background-color: #bf360c !important; }
 
-.off_white_bg, .neutral_white_bg { background-color: #363636 !important; }
+.off_white_bg, .neutral_white_bg { background-color: #00ff00 !important; }
 
 .yolk_orange_bg, .burnt_violet_bg, .flexpane_grey_bg { background-color: #424242 !important; }
 
@@ -3678,7 +3678,7 @@ body.api .hljs-section, body.api .hljs-selector-id, body.api .hljs-title { color
 
 body.api .hljs-meta { color: #00ff00; }
 
-body.api .hljs-class .hljs-title, body.api .hljs-type { color: #eee; }
+body.api .hljs-class .hljs-title, body.api .hljs-type { color: #00ff00; }
 
 body.api .hljs-built_in, body.api .hljs-builtin-name { color: #b39ddb; }
 
