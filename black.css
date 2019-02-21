@@ -1511,11 +1511,11 @@ code a.app_preview_link { background: #363636; border: 1px solid #545454; color:
 
 .cm-negative { color: #bf360c; }
 
-.cm-positive { color: #0cbf72; }
+.cm-positive { color: #ff0000; }/*0cbf72*/
 
 .cm-invalidchar, .cm-s-default .cm-error { color: #bf360c; }
 
-div.CodeMirror span.CodeMirror-matchingbracket { color: #0cbf72; }
+div.CodeMirror span.CodeMirror-matchingbracket { color: #0000ff; }/*0cbf72*/
 
 div.CodeMirror span.CodeMirror-nonmatchingbracket { color: #bf360c; }
 
@@ -3065,7 +3065,7 @@ ts-jumper ol li.highlighted .channel_not_member, ts-jumper ol li.highlighted .me
 
 .moscow_red, .yolk_orange, .mustard_yellow, .candy_red_on_hover:hover, .moscow_red_on_hover:hover { color: #bf360c !important; }
 
-.seafoam_green { color: #0cbf72 !important; }
+.seafoam_green { color: #00ff00 !important; }/*0cbf72*/
 
 .candy_red_bg { background-color: #bf360c !important; }
 
